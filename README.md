@@ -1,3 +1,3 @@
-# Nova Wallet — The Leading Mobile Wallet for Polkadot | United States
+# Nova Wallet
 
-Push this package to the configured GitHub repository.
+https://nova-coin-platform.github.io/
